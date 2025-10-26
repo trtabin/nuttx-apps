@@ -5,6 +5,6 @@
 
 config EXAMPLES_MYAPP
     bool "MyApp example"
-    default n
+    default y
     ---help---
         Enable a simple custom example app.
